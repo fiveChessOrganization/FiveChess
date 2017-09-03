@@ -1,2 +1,2 @@
-# FiveChess
-管理信息系统项目
+# game
+java五子棋客户端
